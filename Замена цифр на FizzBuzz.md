@@ -9,7 +9,7 @@
 -> сначала 3 и 5  
 -> потом 5  
 -> потом 3  
-
+```java
     public static void main(String[] args) {
         System.out.println(Numbers());
     }
@@ -33,7 +33,7 @@
         }
         return result;
     }
-
+```
 #### Пример вывода в консоли
 
 1  
