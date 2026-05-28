@@ -2,15 +2,11 @@
 
 # Мой первый код без помощи ИИ
 
-public class Practice {
-
     public static void main(String[] args) {
-
         System.out.println(Numbers());
     }
 
     public static String Numbers() {
-
         String result = "";
         for (int i = 1; i <= 10; i++) {
             result = result + i + " ";
@@ -23,7 +19,6 @@ public class Practice {
         }
         return result;
     }
-}
 
 # Пример вывода в консоли
 
